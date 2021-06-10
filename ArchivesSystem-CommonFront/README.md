@@ -1,20 +1,5 @@
-# vue-admin(3.0)
-## 使用的组件
-``` bash
-    axios   数据请求
-    fastclick   点击延迟
-    less less-loader  css预加载
-    lodash  数组处理
-    uuid ID   （uuid.v4()）
-    vuex  状态分发
-```
-## 工具类
-``` bash
-    Axios 二次封装axios
-    LocalStage LocalStroage包装
-    Cookie  Cookie包装
-```
-## Build Setup
+# 档案系统
+
 
 ``` bash
 # install dependencies
